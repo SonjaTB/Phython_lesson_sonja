@@ -1,9 +1,9 @@
 # Python introduction
 
-## Author 
+## author 
 
-Sonja
+Sonja ten Bosch
 
 ## date
 
-27-11-19
+2019-11-27
